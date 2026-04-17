@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MyWork\\Projects RoadMap.sh\\beginner\\Task Tracker CLI\\TaskTrackerCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.312\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6F426A-69DB-49EB-B565-D211137A6A2F}|TaskTrackerCLI\\TaskTrackerCLI.csproj|f:\\mywork\\projects roadmap.sh\\beginner\\task tracker cli\\tasktrackercli\\tasktrackercli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6F426A-69DB-49EB-B565-D211137A6A2F}|TaskTrackerCLI\\TaskTrackerCLI.csproj|solutionrelative:tasktrackercli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6F426A-69DB-49EB-B565-D211137A6A2F}|TaskTrackerCLI\\TaskTrackerCLI.csproj|f:\\mywork\\projects roadmap.sh\\beginner\\task tracker cli\\tasktrackercli\\tasktrackercli\\data\\taskproperties\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6F426A-69DB-49EB-B565-D211137A6A2F}|TaskTrackerCLI\\TaskTrackerCLI.csproj|solutionrelative:tasktrackercli\\data\\taskproperties\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.312\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.312\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAYwKoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-04-17T04:48:53.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "F:\\MyWork\\Projects RoadMap.sh\\beginner\\Task Tracker CLI\\TaskTrackerCLI\\TaskTrackerCLI\\Data\\TaskProperties\\FileHelper.cs",
+              "RelativeDocumentMoniker": "TaskTrackerCLI\\Data\\TaskProperties\\FileHelper.cs",
+              "ToolTip": "F:\\MyWork\\Projects RoadMap.sh\\beginner\\Task Tracker CLI\\TaskTrackerCLI\\TaskTrackerCLI\\Data\\TaskProperties\\FileHelper.cs",
+              "RelativeToolTip": "TaskTrackerCLI\\Data\\TaskProperties\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T04:46:38.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MyWork\\Projects RoadMap.sh\\beginner\\Task Tracker CLI\\TaskTrackerCLI\\TaskTrackerCLI\\Program.cs",
+              "RelativeDocumentMoniker": "TaskTrackerCLI\\Program.cs",
+              "ToolTip": "F:\\MyWork\\Projects RoadMap.sh\\beginner\\Task Tracker CLI\\TaskTrackerCLI\\TaskTrackerCLI\\Program.cs",
+              "RelativeToolTip": "TaskTrackerCLI\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T04:46:32.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
