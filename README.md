@@ -170,7 +170,12 @@ Built as a hands-on backend exercise to strengthen:
 * Clean code practices
 
 ---
+## 📌 Project Reference
 
+This project is based on the roadmap.sh challenge:
+
+https://roadmap.sh/projects/task-tracker
+---
 ## 📄 License
 
 This project is open-source and free to use.
